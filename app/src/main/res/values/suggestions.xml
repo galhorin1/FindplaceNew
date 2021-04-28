@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="suggestions">
+        <item>Mall</item>
+        <item>Pub</item>
+        <item>Restaurant</item>
+        <item>Hotel</item>
+        <item>Beach</item>
+        <item>Parking_lot</item>
+        <item>Park</item>
+    </string-array>
+</resources>
